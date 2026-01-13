@@ -1,0 +1,9 @@
+{
+	"name": "Jaw-DataFactory-1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b7363e64-db58-493e-a75c-dada7061a044",
+		"tenantId": "d9500b20-95f0-4b84-9951-38b8e180c975"
+	}
+}
